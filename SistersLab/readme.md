@@ -6,3 +6,4 @@ Ben de kendi alanımda topluluğa destek vermekteyim. Topluluğa fayda sağlamak
 
 ## Adım Adım Veri Görselleştirme Serisi
 1. Adım Adım Veri Görselleştirme: [Tipler ve Tüyolar](https://sisterslab.co/adim-adim-veri-gorsellestirme/)
+2. Adım Adım Veri Görselleştirme: [Python Temelleri](https://sisterslab.co/adim-adim-veri-gorsellestirme-python-temelleri/)
