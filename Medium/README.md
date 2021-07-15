@@ -1,2 +1,2 @@
-## Hi,
-This is my data visualization repostory. I think mostly i will add notebooks about python and plotly, but maybe if i saw something good i can add things from other libraries. Maybe i can add smth from R, who knows, we'll see..
+English version of the post [here](https://bilallozdemir.medium.com/creating-interactive-dashboards-with-python-dash-fa1f05a4e3d3)
+Turkce version ise [burada](https://bilallozdemir.medium.com/dash-ile-etkile%C5%9Fimli-dashboard-olu%C5%9Fturma-abe91ca0e8cd).
